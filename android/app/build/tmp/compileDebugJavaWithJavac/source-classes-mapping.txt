@@ -1,0 +1,14 @@
+com/safecardano/BuildConfig.java
+ com.safecardano.BuildConfig
+com/safecardano/ReactNativeFlipper.java
+ com.safecardano.ReactNativeFlipper
+ com.safecardano.ReactNativeFlipper$1
+ com.safecardano.ReactNativeFlipper$2
+ com.safecardano.ReactNativeFlipper$2$1
+com/safecardano/MainApplication.java
+ com.safecardano.MainApplication
+ com.safecardano.MainApplication$1
+com/safecardano/MainActivity.java
+ com.safecardano.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
